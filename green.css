@@ -2,3 +2,9 @@
   border: 1px solid red;
   margin: 10px;
 }
+header {
+  background: purple;
+}
+section {
+  background: blue;
+}

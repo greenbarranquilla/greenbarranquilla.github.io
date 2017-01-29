@@ -8,3 +8,15 @@ header {
 section {
   background: blue;
 }
+article h3 {
+  color: green;
+}
+.title {
+  background: yellow;
+}
+#header {
+border: 3px solid black;
+}
+#portada {
+border: 3px solid orange;  
+}
